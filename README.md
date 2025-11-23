@@ -1,2 +1,3 @@
 # DaGrogs-Mods-Vanilla-Ammo-Crafts
-Using WTT Commonlib 2.0.6 and their services, this mod aims to add many crafts using vanilla items and ammos to produce higher tier vanilla ammos. No new items in game, just better access to better ammos if one is willing to loot and craft- as one should in SPT.
+Using WTT Commonlib 2.0.6 and their services, this mod aims to add many crafts using vanilla items and ammos to produce higher tier vanilla ammos. No new items in game, just better access to better ammos if one is willing to loot and craft- as one should in SPT. Be careful, this mod is entirely implanted onto the workbench at level 1- so you will 
+have to scroll quite a bit. Sorry, but thats the cost of 70+ new crafts and I am not adding them to other locations in the hideout.
